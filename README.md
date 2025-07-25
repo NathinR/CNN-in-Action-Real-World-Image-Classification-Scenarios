@@ -1,5 +1,9 @@
 # CNN-in-Action-Real-World-Image-Classification-Scenarios
 
+##### Name : Nathin R
+##### Reg.No.: 212222230090
+##### Batch 25 
+
 ### CNN Image Classification using PyTorch
 This project implements a Convolutional Neural Network (CNN) for image classification using a **custom dataset** in PyTorch. The goal is to learn how CNNs work for feature extraction and classification of images.
 
